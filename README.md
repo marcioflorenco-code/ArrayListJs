@@ -2,7 +2,7 @@
 
 Inicialmente antes de começar a usar os métodos para manipulação de listas , e preciso entender o que elas são : 
 
-#O que e uma lista (array) .... ?
+## O que e uma lista (array) .... ?
 
 Uma lista (array) e uma estrutura que nos permite armazenar valores , seja eles numeros, textos e objetos, dentro de uma única variável , como no exemplo abaixo .
 
@@ -10,7 +10,7 @@ let numeros = [1, 2, 3, 4, 5];
 
 Mostrado como e a estruturação de uma lista , vou mostrar agora 3 métodos (filter , map , reduce) , que podemos usar para manipular essas listas .
 
-#Metodo map 
+## Metodo map 
 
 O metodo map , ele vai percorrer todos os elementos da lista e logo em seguida ele cria uma nova lista com as especificações dadas da transformação ou operação do processo , como no exemplo abaixo:
 
@@ -46,7 +46,7 @@ Nesse caso o filter vai passar por todos os valores da lista , e em seguida vai 
 [2, 4, 6]
 ```
 
-#Metodo reduce
+## Metodo reduce
 
 O metodo reduce por outro lado , percorre os elementos de uma lista e combina seus valores afim de gerar um valor único final , sendo bastante usado para calcular valores finais ou ações que precisam de acumulação , como no exemplo abaixo :
 
