@@ -28,7 +28,7 @@ Nessa manipulação de lista , o map vai passar por todos os valores da lista , 
 [2, 4, 6, 8, 10]
 ```
 
-#Metodo filter 
+## Metodo filter 
 
 Nesse metodo, a sua função e relacionada a filtragem de valores , onde ela vai buscar apenas valores que atendem a uma condição específica , e nisso ela vai gerar tambem uma nova lista , podendo diminuir o seu tamanho ou manter-lo no tamanho normal caso todos valores atendam a condição , como por exemplo:
 
